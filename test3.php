@@ -1,9 +1,8 @@
 <?php
+
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-echo 'hola a mundo<br />';
-echo 'hola gas';
-echo 'hola juan';
+######33333333333333saludos#3333333333333##############
 ?>
